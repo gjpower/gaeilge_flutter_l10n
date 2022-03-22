@@ -2,6 +2,9 @@
 .dart_tool/
 .packages
 
+# exclude generated docs
+doc/api
+
 # Conventional directory for build outputs.
 build/
 

@@ -3,7 +3,7 @@ name: gaeilge_flutter_l10n
 description: >-
   A flutter localisation delegate providing
   Irish (Gaeilge) language support
-version: 0.1.0
+version: 1.0.0
 homepage: https://github.com/gjpower/gaeilge_flutter_l10n
 
 environment:

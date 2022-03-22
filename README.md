@@ -47,7 +47,7 @@ return const MaterialApp(
     GlobalMaterialLocalizations.delegate,
     GlobalWidgetsLocalizations.delegate,
     GlobalCupertinoLocalizations.delegate,
-    GaMaterialLocalizations.delegate,
+    GaMaterialLocalizations.delegate, // Custom Irish delegate
   ],
   supportedLocales: [
     Locale('en', ''), // English, no country code
